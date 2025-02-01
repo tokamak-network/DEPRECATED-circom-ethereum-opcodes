@@ -1,3 +1,5 @@
+# Deprecated
+This repository is moved to [qap-compiler](https://github.com/tokamak-network/Tokamak-zk-EVM/tree/main/packages/frontend/qap-compiler)
 # circom-ethereum-opcodes
 
 Circom circuit set of the Ethereum opcodes
